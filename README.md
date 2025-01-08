@@ -9,7 +9,7 @@ This project highlights innovative AI implementation, minimalist creative design
 ---
 
 ## Gameplay Video
-https://github.com/user-attachments/assets/2ff4e38c-81b8-437c-a220-4153685affd6
+[Gameplay Demo](https://github.com/user-attachments/assets/2ff4e38c-81b8-437c-a220-4153685affd6)
 
 ---
 
@@ -65,9 +65,7 @@ Players can compete against a dynamic AI opponent or another human player.
 
 **Game Intro:**
 
-https://github.com/user-attachments/assets/873a40c9-d2d4-4cb6-884d-e4715558275a
-
-
+[Narrative introduction to the game](https://github.com/user-attachments/assets/873a40c9-d2d4-4cb6-884d-e4715558275a)
   
 ---
 
