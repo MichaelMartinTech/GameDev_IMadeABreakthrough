@@ -1,5 +1,6 @@
 # "I made a Breakthrough" - Breakthrough Chess-Variant Game
 *Author:* Michael R. Martin
+
 *Current version: 0.9*
 
 A fast-paced, strategy game inspired by the "Breakthrough" chess-variant board game. 
