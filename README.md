@@ -63,6 +63,12 @@ Players can compete against a dynamic AI opponent or another human player.
 - Designed with player behavior and decision-making in mind; AI adapts playstyle to challenge users effectively.
 - Explores themes of competition and adaptability in strategic environments.
 
+**Game Intro:**
+
+https://github.com/user-attachments/assets/873a40c9-d2d4-4cb6-884d-e4715558275a
+
+
+  
 ---
 
 ## Development Details
